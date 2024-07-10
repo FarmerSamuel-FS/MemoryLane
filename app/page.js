@@ -1,5 +1,6 @@
+
 import Link from "next/link";
-import Layout from "./layout";
+import Layout from "../components/layout";
 
 export default function Home() {
   return (
@@ -27,3 +28,4 @@ export default function Home() {
     </Layout>
   );
 }
+
